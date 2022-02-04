@@ -1,6 +1,5 @@
-# Team2VenuProject
+# Team2_Olympic_Site_Project
 
-Team Leader: Cenk Cafer
 
 Members: 
 Olviia-Nikol Andriievska,
@@ -12,31 +11,21 @@ Simranjeet Singh
 
 Features Included:
 
-Featured(Jayzy):
-- Picture Carrousel (Bootcamp Pics)
+Featured:
+- Picture Carrousel 
 - Index
 - TimeUntil
 
 
 
-Header_Footer Folder(Shirley):
+Header_Footer Folder:
 - header: Top Navbar 
 - footer: Contact Us 
 - Side Drawer
 
-Highlights(Cenk):
+Highlights:
 - Projects We've Done
-- Description: about JJAY TTP 
-- change goal date
-- Genghis quotes
 
-Pricing(internships instead; Jason):
-- copy JJAY internships from TTP website
 
-Location(Simran):
-- Google API Location: John Jay 
-
-venueNfo(Olviia):
-- TTP staff (pictures/name)
 
 Utils: tbd
